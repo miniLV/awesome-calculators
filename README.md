@@ -44,6 +44,7 @@ _All-in-one calculator platforms covering multiple domains._
 - [Loan Calculator](https://www.bankrate.com/loans/loan-calculator/) — Bankrate loan amortization.
 - [WACC Calculator](https://calnex.pro/en_US/calculators/finance/wacc_calculator) — Weighted average cost of capital for business.
 - [ROI Calculator](https://www.omnicalculator.com/finance/roi) — Return on investment estimator.
+- [VA Chapter 31 VR&E Rates 2027 Calculator](https://colacalculator2027.com/va-chapter-31-vre-rates-2027/) — Free Official FY VA Chapter 31 (VR&E) subsistence allowance rate lookup by training type; client-side, no signup.
 - [Coffee Compound Shocker](https://calnex.pro/en_US/calculators/finance/coffee_compound) — See the shocking opportunity cost of daily coffee spending.
 - [Discount & Markup Calculator](https://www.omnicalculator.com/finance/markup) — Calculate discounts and markups.
 
